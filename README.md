@@ -3,6 +3,7 @@
 ## [Python_Analysis](https://github.com/Vishwastanwar/Telecom_Churn_Analysis/blob/main/Telecom_churn_analysis.ipynb)
 ![Churn Analysis](https://github.com/Vishwastanwar/Telecom_Churn_Analysis/blob/main/dashboard_image.png)
 
+##                                                [Detailed Report](https://github.com/Vishwastanwar/Telecom_Churn_Analysis/blob/main/Report-.pdf)
 ## Summary
 This project involves a comprehensive Customer Churn Analysis using interactive visualizations. The dashboard provides actionable insights into customer demographics, churn patterns, and revenue metrics, enabling businesses to optimize customer retention strategies.
 

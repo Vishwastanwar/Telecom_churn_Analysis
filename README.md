@@ -1,5 +1,6 @@
-# Customers_Churn_Analysis
-## [Project Link](https://app.powerbi.com/groups/me/reports/460b479d-6cb9-476f-be4b-e368466a0f77/f95d048b4012783430de?experience=power-bi)
+# Pwc_Customers_Churn_Analysis
+## [Live Dashboard Link](https://app.powerbi.com/groups/me/reports/460b479d-6cb9-476f-be4b-e368466a0f77/f95d048b4012783430de?experience=power-bi)
+## [Python_Analysis](https://github.com/Vishwastanwar/Telecom_Churn_Analysis/blob/main/Telecom_churn_analysis.ipynb)
 ![Churn Analysis](https://github.com/Vishwastanwar/Telecom_Churn_Analysis/blob/main/dashboard_image.png)
 
 ## Summary
